@@ -2,7 +2,7 @@
 
 
 <img src="assets/img/readme/readme1.png" alt="Main page">
-<img src="assets/img/readme/readme1.png" alt="Services page">
+<img src="assets/img/readme/readme2.png" alt="Services page">
 
 
 ## Functionality
@@ -17,7 +17,7 @@ It includes:<br>
 
 
 ## Technologies used:
-CSS, HTML, JavaScript
+HTML, SCSS, JavaScript
 
 ## Contributors:
 <h3>
