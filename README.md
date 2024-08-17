@@ -17,7 +17,7 @@ It includes:<br>
 
 
 ## Technologies used:
-HTML, SCSS, JavaScript
+HTML, SCSS, BEM
 
 ## Contributors:
 <h3>
